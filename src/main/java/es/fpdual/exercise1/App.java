@@ -1,4 +1,4 @@
-package es.fpdual;
+package es.fpdual.exercise1;
 
 /**
  * Hello world!
